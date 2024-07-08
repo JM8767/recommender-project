@@ -1,5 +1,7 @@
 # recommender-project
 
+Author : Jean-Michel Naud SCIA 2025
+
 Data Collection and Preprocessing:
 
     Download and merge MovieLens and IMDb datasets to include movie ratings, genres, and metadata.
